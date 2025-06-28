@@ -1,1 +1,1 @@
-Basic cv created only using html to practice. Didnt use any css here 
+A basic CV created using only HTML for practice. Didn’t use any CSS here.
